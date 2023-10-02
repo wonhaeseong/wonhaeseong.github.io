@@ -1,14 +1,12 @@
-```
 ---
 title: 블로그 소개
 date: 2023-10-03 20:00:00 +0900
 categories: [기타]
-tags:
+pin: true
 image:
-  path: /assets/img/thumbnail/1
+  path: /assets/img/thumbnail/1.jpg
   alt: Image from Unsplash
 ---
-```
 
 ## 블로그 소개
 
