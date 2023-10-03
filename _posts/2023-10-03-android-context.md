@@ -8,7 +8,7 @@ image:
   path: /assets/img/thumbnail/2.jpg
   alt: Image from Unsplash
 ---
----
+
 
 ## 공식 문서의 Context에 대한 정의 
 
