@@ -22,8 +22,7 @@ title: 원해성의 저장소 # the main title
 
 tagline: 배우고 기록하고 성장하자. # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  반갑습니다. 원해성의 저장소입니다.
+description: 반갑습니다. 원해성의 저장소입니다. # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://wonhaeseong.github.io"
