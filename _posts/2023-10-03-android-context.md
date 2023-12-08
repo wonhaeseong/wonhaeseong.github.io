@@ -45,3 +45,6 @@ this
 [https://developer.android.com/reference/android/content/Context](https://developer.android.com/reference/android/content/Context)
 
 [https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&amp;blogId=huewu&amp;logNo=110085457720](https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=huewu&logNo=110085457720)
+
+> 제 글에 잘못된 부분 또는 다른 의견이 있으시면 댓글을 통해 남겨주세요. 토론은 언제나 환영입니다.   
+{: .prompt-tip }

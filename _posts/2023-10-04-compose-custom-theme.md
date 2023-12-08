@@ -3,7 +3,7 @@ title: Compose Custom theme (Dynamic theme)
 date: 2023-10-04 00:00:00 +0900
 categories: [Android, Compose]
 tags: [theme]
-pin: true
+pin: false
 image:
   path: /assets/img/thumbnail/3.png
   alt: Custom theme
